@@ -1,2 +1,2 @@
 # Java-Fundamentals
-Foundation needed for a Java developer
+Java Programs for Beginners
