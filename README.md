@@ -17,7 +17,7 @@
   
 ### 3. Download and Install any Text Editor.
 For beginners I prefer starting with the text editors rather than using the IDEs. It will help you to know how exactly things work behind the scene. Here are some of the most widely used text editors but you can also use one of your choice.
-1.[Sublime Text](https://www.sublimetext.com/)
-2.[Atom](https://atom.io/)
-3.[Brackets](http://brackets.io/)
-4.[Visual Studio Code](https://code.visualstudio.com/)
+1. [Sublime Text](https://www.sublimetext.com/)
+2. [Atom](https://atom.io/)
+3. [Brackets](http://brackets.io/)
+4. [Visual Studio Code](https://code.visualstudio.com/)
